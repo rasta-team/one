@@ -9539,10 +9539,9 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 ####################################### NJOI TV ##########################################
 
 
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="NJOI TV" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-id="TV3" group-title="NJOI TV" ch-number="103" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/TV3.png",TV3 
-#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-https://janton.whacat.me/tonton/TV3
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="NJOI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd

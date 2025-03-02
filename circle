@@ -9673,7 +9673,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCricket" ch-number="832" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",832 Astro Cricket HD
+#EXTINF:-1 tvg-id="AstroCricket" ch-number="832" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",832 Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
@@ -9681,72 +9681,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
   
-#EXTINF:-1 tvg-name="Unifi Sports " tvg-id="unifiSports.my" group-title="SPORTS" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports 1
+#EXTINF:-1 tvg-name="Unifi Sports " tvg-id="unifiSports.my" group-title="SPORTS" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-#EXTINF:-1 tvg-id="MUTV (Man Utd)" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="SPORTS",Man United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1102
 
-#EXTINF:-1 tvg-id="Real Madrid TV"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-real-madrid-tv-871.png" group-title="SPORTS",Real Madrid TV
-https://rmtv-canela.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-#EXTINF:-1 tvg-id="GolfChannel.my" tvg-name="Golf Channel HD" tvg-logo="https://i.ibb.co/wW297RH/NBC-logo-svg.png" group-title="SPORTS",NBC US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
-#EXTINF:-1 tvg-id="CABA3700006IC" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="SPORTS",IMPACT! Wrestling
-#https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/wwe.m3u8
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="INBA5100007ME" tvg-logo="https://i.ibb.co/W3tf9Fr/unnamed-8-modified.png" group-title="SPORTS",Boxing TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-logo="https://i.postimg.cc/mks3pN0f/MOTOR-RACING.png" group-title="SPORTS", Motor Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
-http://210.210.155.35/uq2663/h/h25/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Motorracing_TV_HD
-
-#EXTINF:-1 tvg-id="CCTV5+ä½“è‚²èµ›äº‹" tvg-name="CCTV5+ä½“è‚²èµ›äº‹" tvg-logo="https://i.ibb.co/kcX92zz/ICARUS-SPORTS-JOINS-FORCES-WITH-CCTV-5.jpg" group-title="SPORTS",CCTV5+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports" tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="SPORTS",Horizon Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
-
-#EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" group-title="SPORTS" tvg-logo="https://i.ibb.co/zxvTqGK/download-5-modified-1.png",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="SPORTS",LaLiga TV Hypermotion 
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="SPORTS",LaLiga TV Hypermotion 2 
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://i.ibb.co/1KXbsCm/fc-24-laliga-partnership.jpg" group-title="SPORTS",LaLiga TV Hypermotion 3
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
 

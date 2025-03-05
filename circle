@@ -10457,6 +10457,24 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 #EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MALAYSIA",Dunia Sinema
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Aura_%282024%29.png" group-title="MALAYSIA",Astro Aura 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Rania_%282024%29.png",Astro Rania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+
+
 
 ############################## SINGAPORE #####################################################################################################################################
 

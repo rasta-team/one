@@ -10296,13 +10296,13 @@ https://flv.intechmedia.net/live/ch106.m3u8
 ###############################################3 SERANGKAI TEST#####################################################
 
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="group-logo="https://iili.io/dMQO9t4.png"" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ TEST
+#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="https://iili.io/dMQO9t4.png"" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ TEST
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 https://tinyurl.com/riats0
 
 
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="group-logo="https://iili.io/dMQO9t4.png"" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
+#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="https://iili.io/dMQO9t4.png"" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 https://tinyurl.com/primts0
 

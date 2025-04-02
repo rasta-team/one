@@ -9611,7 +9611,7 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 group-logo="https://iili.io/dMQO9t4.png"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

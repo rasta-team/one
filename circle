@@ -10601,19 +10601,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Bollywood HD" group-title="INDIAN" tvg-logo="https://i.ibb.co/2ndFV0R/logo.png",BollywoodHD Movies
+#EXTINF:-1 tvg-id="Madha TV" group-title="INDIAN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood HD" group-title="INDIAN" tvg-logo="https://i.ibb.co/2ndFV0R/logo.png",Bollywood Movies
 ttps://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 
 #EXTINF:-1 tvg-id="Bollywood Classic" group-title="INDIAN" tvg-logo="https://i.ibb.co/TBCSCxj/sssssssssssssssssssssssssssss.png",BollywoodClassic Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+----
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png"  group-logo="" group-title="INDIAN",BollywooD (SERVER 1)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Madha TV" group-title="INDIAN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-logo="" group-title="INDIAN",BollywooD Classic (SERVER 1) 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+
 
 
 ################################################################CHINESE##########################################################################################
